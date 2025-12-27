@@ -1,0 +1,87 @@
+# 📊 Data Analyst Internship Portfolio
+## End-to-End Data Analytics Projects
+
+### 👤 Author
+Stephen Rodrick  
+B.Tech Biotechnology | Aspiring Data Analyst  
+
+---
+
+## 📌 Internship Overview
+This repository serves as a **master portfolio** consolidating all projects completed during my Data Analyst Internship.  
+It demonstrates my ability to handle the **entire data analytics lifecycle** — from problem definition and data analysis to statistical validation, visualization, and business storytelling.
+
+---
+
+## 🧠 Internship Objectives
+- Apply data analytics to solve real-world business problems
+- Perform exploratory and statistical analysis
+- Build dashboards and stakeholder-ready presentations
+- Translate data insights into actionable business decisions
+
+---
+
+## 📂 Project Portfolio
+
+### 🔹 Task 1: Data Exploration & Understanding
+🔗 [https://github.com/stephenrodrick/TASK-1-](https://www.linkedin.com/posts/stephen-rodrick-4a3462324_apexplanet-datacleaning-excel-activity-7406920188660678656-53xV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFHv5jsBPzhQK2rSTieKBpvigTwR6EGCmmM)
+
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Initial insights and KPI identification
+
+---
+
+### 🔹 Task 2: SQL & KPI Analysis
+🔗 [https://github.com/stephenrodrick/TASK-2](https://www.linkedin.com/posts/stephen-rodrick-4a3462324_dataanalytics-sql-powerbi-activity-7407418250239758336-Aazz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFHv5jsBPzhQK2rSTieKBpvigTwR6EGCmmM)
+
+- SQL queries for business questions
+- KPI definition and calculation
+- Time-based and performance analysis
+
+---
+
+### 🔹 Task 3: Dashboard & Visualization
+🔗 [https://github.com/stephenrodrick/TASK-3]( https://www.linkedin.com/posts/stephen-rodrick-4a3462324_dataanalytics-businessintelligence-powerbi-activity-7408777736955293696-97kX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFHv5jsBPzhQK2rSTieKBpvigTwR6EGCmmM)
+
+- Interactive dashboards
+- Business-focused visualizations
+- Insight-driven reporting
+
+---
+
+### 🔹 Task 4: Hypothesis Testing & Business Storytelling
+🔗 [ https://github.com/stephenrodrick/TASK-4]( https://www.linkedin.com/posts/stephen-rodrick-4a3462324_turning-data-into-business-decisions-i-activity-7410578980514328576-gfzV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFHv5jsBPzhQK2rSTieKBpvigTwR6EGCmmM)
+
+- A/B testing and statistical validation
+- Hypothesis formulation
+- Stakeholder presentation with business recommendations
+
+---
+
+## 📊 Final Presentation
+📥 [Download Final Internship Deck](./Final_Presentation/Internship_Final_Deck.pptx)
+
+---
+
+## 🛠 Technical Skills Demonstrated
+- SQL (Joins, Aggregations, KPIs)
+- Python (Pandas, NumPy, Statistical Analysis)
+- Data Visualization (Power BI / Tableau / Matplotlib)
+- Hypothesis Testing (A/B Testing, Chi-Square Test)
+- Business Analytics & Data Storytelling
+- GitHub Documentation & Version Control
+
+---
+
+## 🎓 Key Learnings
+- How to turn raw data into actionable insights
+- Applying statistics to validate business decisions
+- Communicating insights to non-technical stakeholders
+- Building professional analytics deliverables
+
+---
+
+## 🏁 Conclusion
+This portfolio reflects my ability to work as a **data analyst in a real-world business environment**, combining analytical rigor with effective communication and decision-making support.
+
